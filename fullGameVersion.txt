@@ -1,0 +1,2 @@
+    "version": "1.6.3296.0"
+    "download_url": "https://spyderrock.com/tSg53733-Warhammer40000Darktide1.rar"
