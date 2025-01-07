@@ -1,4 +1,2 @@
-{
     "version": "1.6.3296.0"
     "download_url": "https://spyderrock.com/e72r6484-UpdateWarhammer40000Darktide1.rar"
-}
