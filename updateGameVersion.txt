@@ -1,11 +1,11 @@
     "version": "1.6.3284.0"
-    "download_url": "https://spyderrock.com/f8XQ5791-UpdateWarhammer40000Darktide1.bin"
+    "download_url": "https://spyderrock.com/wiy68884-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3296.0"
-    "download_url": "https://spyderrock.com/vYQ95773-UpdateWarhammer40000Darktide1.bin"
+    "download_url": "https://spyderrock.com/mjXP7342-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3396.0"
-    "download_url": "https://spyderrock.com/dSpF7347-UpdateWarhammer40000Darktide1.bin"
+    "download_url": "https://spyderrock.com/dFY37290-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3414.0"
     "download_url": "https://spyderrock.com/k7kQ9273-UpdateWarhammer40000Darktide1.bin"
