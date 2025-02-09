@@ -1,2 +1,2 @@
-"version": "v3.0.0"
-"download_url": ""
+3.0.0
+
