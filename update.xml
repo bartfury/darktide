@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
-<versions>
 <version number="1.6.3284.0" required="1.6.3271.0">
 <urls>
 <url priority="1">https://spyderrock.com/5ZwV5291-UpdateWarhammer40000Darktide1.bin</url>
@@ -30,6 +29,5 @@
 <url priority="1" md5url="https://github.com/bartfury/darktide/blob/main/MD5/Warhammer%2040%2C000%20Darktide_1.6.3427.0.md5">https://spyderrock.com/88WN6877-UpdateWarhammer40000Darktide1.bin</url>
 <url priority="2">https://pd.cybar.xyz/V9ZYjYkk</url>
 </urls>
-</version>
 </versions>
 </updates>  
