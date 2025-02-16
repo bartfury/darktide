@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <version number="1.6.3284.0" required="1.6.3271.0" url="https://spyderrock.com/5ZwV5291-UpdateWarhammer40000Darktide1.bin"/>
-  <version number="1.6.3296.0" required="1.6.3284.0" url="https://spyderrock.com/fVtP5190-UpdateWarhammer40000Darktide1.bin"/>
-  <version number="1.6.3396.0" required="1.6.3296.0" url="https://spyderrock.com/kV4o5188-UpdateWarhammer40000Darktide1.bin"/>
-  <version number="1.6.3414.0" required="1.6.3396.0" url="https://spyderrock.com/9eou7072-UpdateWarhammer40000Darktide1.bin"/>
-  <version number="1.6.3427.0" required="1.6.3414.0" url="https://spyderrock.com/88WN6877-UpdateWarhammer40000Darktide1.bin"/>
-</versions>
+  <version number="1.6.3284.0" required="1.6.3271.0" 
+      <urls>
+          <url priority="1">https://spyderrock.com/5ZwV5291-UpdateWarhammer40000Darktide1.bin</url>
+          <url priority="2">https://pd.cybar.xyz/sMcP2x5o</url>
+      </urls>
+  <versions>
+  <version number="1.6.3296.0" required="1.6.3284.0" 
+       <urls>
+          <url priority="1">https://spyderrock.com/fVtP5190-UpdateWarhammer40000Darktide1.bin</url>
+          <url priority="2">https://pd.cybar.xyz/vr3BDHu7</url>
+      </urls>
+  <versions>
+  <version number="1.6.3396.0" required="1.6.3296.0" 
+       <urls>
+          <url priority="1">https://spyderrock.com/kV4o5188-UpdateWarhammer40000Darktide1.bin</url>
+          <url priority="2">https://pd.cybar.xyz/kWg5cY68</url>
+      </urls>
+  <versions> 
+  <version number="1.6.3414.0" required="1.6.3396.0" 
+       <urls>
+          <url priority="1">https://spyderrock.com/9eou7072-UpdateWarhammer40000Darktide1.bin</url>
+          <url priority="2">https://pd.cybar.xyz/N3CUEKZs</url>
+      </urls>
+  <versions>  
+  <version number="1.6.3427.0" required="1.6.3414.0" 
+       <urls>
+          <url priority="1">https://spyderrock.com/88WN6877-UpdateWarhammer40000Darktide1.bin</url>
+          <url priority="2">https://pd.cybar.xyz/V9ZYjYkk</url>
+      </urls>
+  </versions>
+<versions>    
