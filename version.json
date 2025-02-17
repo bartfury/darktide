@@ -1,6 +1,6 @@
 {
     "Version": "3.1.0",
-    "PatchUrl": "https://raw.githubusercontent.com/bartfury/darktide/refs/heads/main/patches/update_3.0.1.patch",
+    "PatchUrl": "",
     "ChangedFiles": [
         "Darktide Patcher.exe",
         "Darktide Patcher.dll"
