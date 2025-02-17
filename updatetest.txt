@@ -13,7 +13,7 @@
     "version": "1.6.3427.0"
     "download_url": "https://spyderrock.com/88WN6877-UpdateWarhammer40000Darktide1.bin"
 
-    "version": "1.6.3284.0(alternative link)"
+    "version": "1.6.3284.0"
     "download_url": "https://pd.cybar.xyz/sMcP2x5o"
 
     "version": "1.6.3296.0(alternative link)"
