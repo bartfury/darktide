@@ -14,7 +14,7 @@
     "download_url": "https://spyderrock.com/88WN6877-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3475.0(in progress)"
-    "download_url": "https://store-eu-par-3.gofile.io/download/web/9cf68522-b995-449d-b9f5-e297e31bbc15/UpdateWarhammer40%2C000Darktide_1.6.3475.0.bin"
+    "download_url": ""
 
     "version": "1.6.3284.0(alternative link)"
     "download_url": "https://pd.cybar.xyz/sMcP2x5o"
