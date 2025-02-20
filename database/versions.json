@@ -47,10 +47,23 @@
       "DownloadUrls": {
         "Primary": "https://gofile.io/d/4yWEoE",
         "Mirrors": [
-          ""
+          "https://pd.cybar.xyz/V9ZYjYkk"
         ]
       },
       "HashUrl": "https://raw.githubusercontent.com/YourUsername/DarktideUpdater/main/database/hashes_1.6.3427.0.json"
+    },
+    {
+      "PatchVersion": "1.6.3475.0",
+      "RequiredVersion": "1.6.3427.0",
+      "PatchSize": 33975268,
+      "Description": "Update from 1.6.3427.0 to 1.6.3475.0",
+      "DownloadUrls": {
+        "Primary": "https://spyderrock.com/xaUm3506-UpdateWarhammer40000Darktide1.bin",
+        "Mirrors": [
+          "https://pd.cybar.xyz/ZohWq5Ud"
+        ]
+      },
+      "HashUrl": "https://raw.githubusercontent.com/YourUsername/DarktideUpdater/main/database/hashes_1.6.3475.0.json"
     }
   ]
 }
