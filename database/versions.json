@@ -8,7 +8,8 @@
       "DownloadUrls": {
         "Primary": "https://spyderrock.com/fVtP5190-UpdateWarhammer40000Darktide1.bin",
         "Mirrors": [
-          "https://pd.cybar.xyz/vr3BDHu7"
+          "https://pd.cybar.xyz/vr3BDHu7",
+          "https://pixeldrain.com/api/file/vr3BDHu7?download"
         ]
       },
       "HashUrl": "https://raw.githubusercontent.com/YourUsername/DarktideUpdater/main/database/hashes_1.6.3296.0.json"
@@ -21,7 +22,8 @@
       "DownloadUrls": {
         "Primary": "https://spyderrock.com/kV4o5188-UpdateWarhammer40000Darktide1.bin",
         "Mirrors": [
-          "https://pd.cybar.xyz/kWg5cY68"
+          "https://pd.cybar.xyz/kWg5cY68",
+          "https://pixeldrain.com/api/file/kWg5cY68?download"
         ]
       },
       "HashUrl": "https://raw.githubusercontent.com/YourUsername/DarktideUpdater/main/database/hashes_1.6.3396.0.json"
@@ -34,7 +36,8 @@
       "DownloadUrls": {
         "Primary": "https://1drv.ms/u/c/d8043cc78c486295/ERxLjp38SpJPq8paJZjZhDoBtLjY79t0Cqxy-8YWypUZww?e=8sEynB",
         "Mirrors": [
-          "https://pd.cybar.xyz/N3CUEKZs"
+          "https://pd.cybar.xyz/N3CUEKZs",
+          "https://pixeldrain.com/api/file/N3CUEKZs?download"
         ]
       },
       "HashUrl": "https://1drv.ms/u/c/d8043cc78c486295/ERxLjp38SpJPq8paJZjZhDoBtLjY79t0Cqxy-8YWypUZww?e=aQr5P3"
@@ -61,7 +64,8 @@
       "DownloadUrls": {
         "Primary": "https://spyderrock.com/xaUm3506-UpdateWarhammer40000Darktide1.bin",
         "Mirrors": [
-          "https://pd.cybar.xyz/ZohWq5Ud"
+          "https://pd.cybar.xyz/ZohWq5Ud",
+          "https://pixeldrain.com/api/file/ZohWq5Ud?download"
         ]
       },
       "HashUrl": "https://raw.githubusercontent.com/YourUsername/DarktideUpdater/main/database/hashes_1.6.3475.0.json"
