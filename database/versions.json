@@ -69,6 +69,20 @@
         ]
       },
       "HashUrl": ""
+    },
+    {
+      "PatchVersion": "1.6.3527.0",
+      "RequiredVersion": "1.6.3475.0",
+      "PatchSize": 340552464,
+      "Description": "Update from 1.6.3475.0 to 1.6.3527.0",
+      "DownloadUrls": {
+        "Primary": "https://spyderrock.com/k5V64296-UpdateWarhammer40000Darktide1.bin",
+        "Mirrors": [
+          "https://pd.cybar.xyz/zM2W1cTf",
+          "https://store7.gofile.io/download/web/dbc6a94a-74a4-441f-9f33-9d59a5f861b6/UpdateWarhammer40%2C000Darktide_1.6.3527.0.bin"
+        ]
+      },
+      "HashUrl": ""
     }
   ]
 }
