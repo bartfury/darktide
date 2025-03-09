@@ -1,23 +1,23 @@
     "version": "1.6.3284.0"
-    "download_url": "https://spyderrock.com/vH1h1195-UpdateWarhammer40000Darktide1.bin"
+    "download_url": "https://spyderrock.com/xqRy5930-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3296.0"
-    "download_url": "https://spyderrock.com/mTZJ1503-UpdateWarhammer40000Darktide1.bin"
+    "download_url": "https://spyderrock.com/5dBD5910-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3396.0"
-    "download_url": "https://spyderrock.com/fF9N1515-UpdateWarhammer40000Darktide1.bin"
+    "download_url": "https://spyderrock.com/is9W5935-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3414.0"
-    "download_url": "https://spyderrock.com/w8381521-UpdateWarhammer40000Darktide1.bin"
+    "download_url": "https://spyderrock.com/4NcK5925-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3427.0"
-    "download_url": "https://spyderrock.com/gkKP1524-UpdateWarhammer40000Darktide1.bin"
+    "download_url": "https://spyderrock.com/2E2J5902-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3475.0"
     "download_url": "https://spyderrock.com/tYt98080-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3527.0"
-    "download_url": "https://spyderrock.com/k5V64296-UpdateWarhammer40000Darktide1.bin"
+    "download_url": "https://spyderrock.com/tctK5918-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3284.0(alternative link)"
     "download_url": "https://pd.cybar.xyz/sMcP2x5o"
