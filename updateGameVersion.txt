@@ -19,8 +19,8 @@
     "version": "1.6.3527.0"
     "download_url": "https://spyderrock.com/9tpy9459-UpdateWarhammer40000Darktide1.bin"
 
-    "version": "1.7.3654.0(in progress)"
-    "download_url": ""
+    "version": "1.7.3654.0"
+    "download_url": "https://spyderrock.com/j1xz4761-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3284.0(alternative link)"
     "download_url": https://pd.cybar.xyz/sMcP2x5o"
@@ -43,6 +43,6 @@
     "version": "1.6.3527.0(alternative link)"
     "download_url": "https://pd.cybar.xyz/zM2W1cTf"
 
-    "version": "1.7.3654.0(alternative link in progress)"
-    "download_url": ""
+    "version": "1.7.3654.0(alternative link)"
+    "download_url": "https://pd.cybar.xyz/uo5wDZ4H"
 
