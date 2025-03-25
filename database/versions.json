@@ -77,6 +77,19 @@
         ]
       },
       "HashUrl": ""
+    },
+    {
+      "PatchVersion": "1.7.3654.0",
+      "RequiredVersion": "1.6.3527.0",
+      "PatchSize": 9414736604,
+      "Description": "Update from 1.6.3527.0 to 1.7.3654.0",
+      "DownloadUrls": {
+        "Primary": "https://spyderrock.com/j1xz4761-UpdateWarhammer40000Darktide1.bin",
+        "Mirrors": [
+          ""
+        ]
+      },
+      "HashUrl": ""
     }
   ]
 }
