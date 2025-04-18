@@ -38,7 +38,7 @@
     "download_url": "https://pd.cybar.xyz/sMcP2x5o"
 
     "version": "1.6.3296.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/vr3BDHu7"
+    "download_url": "https://cold5.gofile.io/download/web/f159deb8-4d4a-404f-9d63-718b6bd4784a/UpdateWarhammer40%2C000Darktide_1.6.3296.0.bin"
 
     "version": "1.6.3396.0(alternative link)"
     "download_url": "https://pd.cybar.xyz/kWg5cY68"
