@@ -35,38 +35,38 @@
     "download_url": "https://spyderrock.com/d9M97527-UpdateWarhammer40000Darktide1.bin"
 
     "version": "1.6.3284.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/sMcP2x5o"
+    "download_url": "https://pd.cybar.xyz/wHFx3B7Q"
 
     "version": "1.6.3296.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/vr3BDHu7"
+    "download_url": "https://pd.cybar.xyz/WhyK51HY"
 
     "version": "1.6.3396.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/kWg5cY68"
+    "download_url": "https://pd.cybar.xyz/fS5YqNAe"
 
     "version": "1.6.3414.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/N3CUEKZs"
+    "download_url": "https://pd.cybar.xyz/eDNza4Xs"
 
     "version": "1.6.3427.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/V9ZYjYkk"
+    "download_url": "https://pd.cybar.xyz/Q6YUR1uv"
 
     "version": "1.6.3475.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/ZohWq5Ud"
+    "download_url": "https://pd.cybar.xyz/KeoATuzJ"
 
     "version": "1.6.3527.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/zM2W1cTf"
+    "download_url": "https://pd.cybar.xyz/rbSozkCq"
 
     "version": "1.7.3654.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/uo5wDZ4H"
+    "download_url": "https://pd.cybar.xyz/TagyDAKK"
 
     "version": "1.7.3669.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/cgBAr8Mo"
+    "download_url": "https://pd.cybar.xyz/JdVQKNiH"
 
    "version": "1.7.3682.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/sEnmWwrr"
+    "download_url": "https://pd.cybar.xyz/A5K4gsxk"
 
    "version": "1.7.3729.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/A3HTtTWG"
+    "download_url": "https://pd.cybar.xyz/8Uh75AVS"
 
    "version": "1.7.3781.0(alternative link)"
-    "download_url": "https://pd.cybar.xyz/kw7zM8L4"
+    "download_url": "https://pd.cybar.xyz/HF5eGLc7"
 
